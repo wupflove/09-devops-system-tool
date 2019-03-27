@@ -71,71 +71,73 @@
 
 ##### 项目与开发管理
 
-|      模块      |   昵称    |  姓名  |
-| :------------: | :-------: | :----: |
-|    需求管理    |  bearrui  |  熊星  |
-| 计划与任务管理 |           | 姚剑芒 |
-|   项目集管理   |  dongyue  |  董越  |
-| 文档与知识管理 | Kaveri XU |  徐毅  |
-|    团队协同    | Kaveri XU |  徐毅  |
-|    统计度量    |  dongyue  |  董越  |
+|      模块      | Github账号 | Github昵称 |  姓名  |
+| :------------: | :----------: | :--------: | :----: |
+|    项目管理    | kaverjody  | Kaveri XU | 徐毅 |
+|    需求管理    | bearrui |  bearrui   |  熊星  |
+| 计划与任务管理 | yaojianmang | yaojm | 姚剑芒 |
+|   项目集管理   | dongyue | Dong Yue |  董越  |
+| 文档与知识管理 | kaverjody | Kaveri XU  |  徐毅  |
+|    团队协同    | kaverjody | Kaveri XU  |  徐毅  |
+|    统计度量    | kaverjody | Kaveri XU |  徐毅  |
 
 应用设计与开发
 
-|   模块   |   昵称    |    姓名     |
-| :------: | :-------: | :---------: |
-| 应用框架 |   Mark⚡️   | Mark 单致豪 |
-|  云IDE   | Kaveri XU |    徐毅     |
+|   模块   |  Github账号   | Github昵称 |    姓名     |
+| :------: | :-----------: | :--------: | :---------: |
+| 应用框架 | marklightning |   Mark⚡️    | Mark 单致豪 |
+|  云IDE   |   kaverjody   | Kaveri XU  |    徐毅     |
 
 
 
 ##### 持续交付
 
-|      模块      |                    昵称                     |      姓名       |
-| :------------: | :-----------------------------------------: | :-------------: |
-|   源代码管理   |                  marssuntx                  |     孙辰星      |
-| 构建和持续集成 | 刘章雄、Daniel Filipe Bruehmueller Morinigo | 刘章雄、Daniel  |
-|     流水线     |                  Kaveri XU                  |      徐毅       |
-|    制品管理    |                 Bowen Huang                 |   董越&黄博文   |
-|    部署管理    |                                             |     杨文兵      |
-|    发布管理    |                   kujing                    |     井亮亮      |
-|    环境管理    |                                             |     王津银      |
-|    数据管理    |                                             | 聂智戈&申屠欣欣 |
-|  应用配置管理  |                   dongyue                   |    董越&杨奕    |
+|      模块      |        Github账号         |                     Github昵称                      |       姓名        |
+| :------------: | :-----------------------: | :-------------------------------------------------: | :---------------: |
+|   源代码管理   |        ovmarschen         |                       marssun                       |      孙辰星       |
+| 构建和持续集成 | brandonliuxiong\danielfbm | brandonliuxiong\Daniel Filipe Bruehmueller Morinigo |  刘章雄、Daniel   |
+|     流水线     |         kaverjody         |                      Kaveri XU                      |       徐毅        |
+|    制品管理    |       huangbowen521       |                     Bowen Huang                     |    黄博文&董越    |
+|    部署管理    |        ramboyang11        |                     ramboyang11                     |      杨文兵       |
+|    发布管理    |          kujing           |                       kujing                        |      井亮亮       |
+|    环境管理    |         512mouse          |                      512mouse                       |      王津银       |
+|    数据管理    |          cnie777          |                       cnie777                       |      聂智戈       |
+|  应用配置管理  |    ramboyang11\dongyue    |                ramboyang11\Dong Yue                 | 杨文兵、董越&杨奕 |
 
 ##### 测试管理
 
-|        模块        |   昵称    |  姓名  |
-| :----------------: | :-------: | :----: |
-| 用例与测试计划管理 | juweigang | 鞠炜刚 |
-|      缺陷管理      |           |  董越  |
-|    测试数据管理    | Kaveri XU |  徐毅  |
+|        模块        | Github账号 | Github昵称 |  姓名  |
+| :----------------: | :--------: | :--------: | :----: |
+| 用例与测试计划管理 | juweigang  | juweigang  | 鞠炜刚 |
+|      缺陷管理      |  dongyue   |  Dong Yue  |  董越  |
+|    测试数据管理    | kaverjody  | Kaveri XU  |  徐毅  |
 
 ##### 自动化测试
 
-|     模块      |   昵称    |  姓名  |
-| :-----------: | :-------: | :----: |
-| 代码质量管理  | txdoriswu |  武丹  |
-|   单元测试    | wupflove  | 吴平福 |
-| 接口/服务测试 | Kaveri XU |  徐毅  |
-|    UI测试     |  dongyue  |  董越  |
-| 移动应用测试  | desuolisi | 殷柱伟 |
-|   性能测试    |           | 何毅鹏 |
+|     模块      | Github账号 | Github昵称 |  姓名  |
+| :-----------: | :--------: | :--------: | :----: |
+| 代码质量管理  | txdoriswu  | txdoriswu  |  武丹  |
+|   单元测试    |  wupflove  |  wupflove  | 吴平福 |
+| 接口/服务测试 | kaverjody  | Kaveri XU  |  徐毅  |
+|    UI测试     |  dongyue   |  Dong Yue  |  董越  |
+| 移动应用测试  | desuolisi  | desuolisi  | 殷柱伟 |
+|   性能测试    |   hypamd   |   hypamd   | 何毅鹏 |
 
 ##### 安全开发/交付/运营
 
-|            模块             |   昵称    |  姓名  |
-| :-------------------------: | :-------: | :----: |
-| 安全开发-代码安全与合规管理 | Kaveri XU |  徐毅  |
-|      安全交付-安全测试      |           | 张大江 |
-|          安全运营           |           | 王永霞 |
+|            模块             | Github账号 | Github昵称 |  姓名  |
+| :-------------------------: | :--------: | :--------: | :----: |
+| 安全开发-代码安全与合规管理 | kaverjody  | Kaveri XU  |  徐毅  |
+|      安全交付-安全测试      |            |            | 张大江 |
+|          安全运营           |            |            | 王永霞 |
 
-##### 统筹
+##### 统筹管理
 
-| 昵称                | 姓名   |
-| ------------------- | ------ |
-| 牛晓玲              | 牛晓玲 |
-| Forest Jing（景韵） | 景韵   |
+|   Github账号    |     Github昵称      |          姓名          |
+| :-------------: | :-----------------: | :--------------------: |
+| niuxiaoling-666 |       牛晓玲        |         牛晓玲         |
+|      ijyun      | Forest Jing（景韵） |          景韵          |
+|      LuDLu      |       DevOps        | DevOps标准工作组小助手 |
 
 
 
