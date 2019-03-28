@@ -65,7 +65,7 @@
 1. 注意修改前请获取最新的提交
 
 ### 编写单位
-![compilers](/docs/compilers.png)
+![compilers](/docs/writers.png)
 
 #### 编写专家名称
 
