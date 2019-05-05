@@ -33,14 +33,14 @@
 
 #### 3. [测试管理](test_management.md)
 
-| 用例与测试计划管理 | 测试数据管理     |
-| ------------------ | ---------------- |
-| TestLink           | 华为DevCloud云测 |
-| HP Quality Center  |                  |
-| 华为DevCloud:云测  |                  |
-| 阿里云效:持续交付  |                  |
-| ONES TestCase      |                  |
-|                    |                  |
+| 用例与测试计划管理 | 测试数据管理                   |
+| ------------------ | ------------------------------ |
+| TestLink           | 华为DevCloud云测               |
+| HP Quality Center  | 亚信智测云AiTC                 |
+| 华为DevCloud:云测  | Alauda Cloud Enterprise（ACE） |
+| 阿里云效:持续交付  | 东软UniEAP UTF自动化测试平台   |
+| ONES TestCase      |                                |
+|                    |                                |
 
 #### 4. [自动化测试](test_automation.md)
 
