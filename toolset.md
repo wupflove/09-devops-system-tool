@@ -19,7 +19,7 @@
 | 阿里云效:项目协作     | 阿里云效:项目协作           | ONES Project          |                             |                     | CloudBees DevOptics   | Oracel Primavera       |
 | ONES Project          | ONES Project                | MS Project            |                             |                     | JIRA EasyBI           |                        |
 |                       | Rational RequisitePro/DOORS |                       |                             |                     |                       |                        |
-
+CODING：项目管理 | CODING：项目管理 | CODING：项目管理 | CODING：Wiki 与文档管理 | - | CODING：项目管理 | CODING：项目管理
 
 
 #### 2. [应用设计与开发](application_design_and_development.md)
@@ -33,6 +33,7 @@
 | 华为云 ServiceStage    |   Coding:WebIDE      |
 | EMAS     | OrionHub |
 | 谐云（观云台）     |  |
+| - | CODING：Cloud Studio
 
 #### 3. [持续交付](continuous_delivery.md)
 
@@ -40,20 +41,24 @@
 | ----------- | -------- | -------- | ------ | -------- | -------- | -------- | -------- | :----------: |
 | Github      |          |          |        |          |          |          |          |  携程Apollo  |
 | Gitlab:代码 |          |          |        |          |          |          |          |              |
+| CODING：代码托管 | CODING：持续集成  | CODING：持续集成 | CODING：持续集成 | - | - | - | - | - |
+
 
 #### 4. [测试管理](test_management.md)
 
 | 用例与测试计划管理 | 缺陷管理 | 测试数据管理 |
 | ------------------ | -------- | ------------ |
 |                    | JIRA     |              |
-|                    |          |              |
+| CODING：测试管理 | CODING：缺陷管理 | - |
+
 
 #### 5. [自动化测试](test_automation.md)
 
 | 代码质量管理 | 单元测试 | 接口/服务测试 | UI测试 | 移动应用测试 | 性能测试 |
 | ------------ | -------- | ------------- | ------ | ------------ | -------- |
 | SonarQube    |          |               |        |              |          |
-|              |          |               |        |              |          |
+| CODING：持续集成 | - | - | - | - | - |
+
 
 #### 6. 技术运营（待定）
 
