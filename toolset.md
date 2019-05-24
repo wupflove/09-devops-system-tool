@@ -19,6 +19,7 @@
 | 阿里云效:项目协作     | 阿里云效:项目协作           | ONES Project          |                             |                     | CloudBees DevOptics   | Oracel Primavera       |
 | ONES Project          | ONES Project                | MS Project            |                             |                     | JIRA EasyBI           |                        |
 |                       | Rational RequisitePro/DOORS |                       |                             |                     |                       |                        |
+CODING：项目管理 | CODING：项目管理 | CODING：项目管理 | CODING：Wiki 与文档管理 | - | CODING：项目管理 | CODING：项目管理
 |                       | 平安神兵:协作平台(Alm) | 平安神兵:协作平台(Alm) |                             |                        | 平安神兵:数据平台(DC)| 平安神兵:协作平台(Alm) |
 
 
@@ -34,6 +35,7 @@
 | 华为云 ServiceStage    |   Coding:WebIDE      |
 | EMAS     | OrionHub |
 | 谐云（观云台）     |  |
+| - | CODING：Cloud Studio
 
 #### 3. [持续交付](continuous_delivery.md)
 
@@ -45,6 +47,7 @@
 | 平安神兵:Code | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT |          | 平安神兵:CC |
 | 华为云DevCloud：代码托管 | 华为云DevCloud：编译构建 | 华为云DevCloud：编译构建 | 华为云DevCloud：流水线 | 华为云DevCloud：发布 | 华为云DevCloud：发布 | 华为云DevCloud：部署 |          |              |
 | 云效: code  | 云效: 持续交付| 云效:持续交付|云效:持续交付|云效:私库服务|云效:持续交付 | | |
+| CODING：代码托管 | CODING：持续集成  | CODING：持续集成 | CODING：持续集成 | - | - | - | - | - |
 
 
 #### 4. [测试管理](test_management.md)
@@ -54,12 +57,14 @@
 |                    | JIRA     |              |
 | 华为云DevCloud：云测 | 华为云DevCloud：项目管理 | 华为云DevCloud：云测 |
 | 平安神兵:协作平台(Alm) | 平安神兵:协作平台(Alm) |              |
+| CODING：测试管理 | CODING：缺陷管理 | - |
 
 #### 5. [自动化测试](test_automation.md)
 
 | 代码质量管理 | 单元测试 | 接口/服务测试 | UI测试 | 移动应用测试 | 性能测试 |
 | ------------ | -------- | ------------- | ------ | ------------ | -------- |
 | SonarQube    |          |               |        |              |          |
+| CODING：持续集成 | - | - | - | - | - |
 | 华为云DevCloud：代码检查 |          | 华为云DevCloud：云测 |        | 华为云DevCloud：移动应用测试 |          |
 |              |          |  平安神兵:api |        |              | 平安神兵:Power |
 
