@@ -44,7 +44,7 @@
 | 腾讯工蜂 |          |          |        |          |          |          |          |              |
 | 平安神兵:Code | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT |          | 平安神兵:CC |
 | 华为云DevCloud：代码托管 | 华为云DevCloud：编译构建 | 华为云DevCloud：编译构建 | 华为云DevCloud：流水线 | 华为云DevCloud：发布 | 华为云DevCloud：发布 | 华为云DevCloud：部署 |          |              |
-
+| 云效: code  | 云效: 持续交付| 云效:持续交付|云效:持续交付|云效:私库服务|云效:持续交付 | | |
 
 
 #### 4. [测试管理](test_management.md)
