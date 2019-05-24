@@ -19,6 +19,7 @@
 | 阿里云效:项目协作     | 阿里云效:项目协作           | ONES Project          |                             |                     | CloudBees DevOptics   | Oracel Primavera       |
 | ONES Project          | ONES Project                | MS Project            |                             |                     | JIRA EasyBI           |                        |
 |                       | Rational RequisitePro/DOORS |                       |                             |                     |                       |                        |
+|                       | 平安神兵:协作平台(Alm) | 平安神兵:协作平台(Alm) |                             |                        | 平安神兵:数据平台(DC)| 平安神兵:协作平台(Alm) |
 
 
 
@@ -40,7 +41,11 @@
 | ----------- | -------- | -------- | ------ | -------- | -------- | -------- | -------- | :----------: |
 | Github      |          |          |        |          |          |          |          |  携程Apollo  |
 | Gitlab:代码 |          |          |        |          |          |          |          |              |
+| 腾讯工蜂 |          |          |        |          |          |          |          |              |
+| 平安神兵:Code | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT |          | 平安神兵:CC |
 | 华为云DevCloud：代码托管 | 华为云DevCloud：编译构建 | 华为云DevCloud：编译构建 | 华为云DevCloud：流水线 | 华为云DevCloud：发布 | 华为云DevCloud：发布 | 华为云DevCloud：部署 |          |              |
+
+
 
 #### 4. [测试管理](test_management.md)
 
@@ -48,6 +53,7 @@
 | ------------------ | -------- | ------------ |
 |                    | JIRA     |              |
 | 华为云DevCloud：云测 | 华为云DevCloud：项目管理 | 华为云DevCloud：云测 |
+| 平安神兵:协作平台(Alm) | 平安神兵:协作平台(Alm) |              |
 
 #### 5. [自动化测试](test_automation.md)
 
@@ -55,6 +61,7 @@
 | ------------ | -------- | ------------- | ------ | ------------ | -------- |
 | SonarQube    |          |               |        |              |          |
 | 华为云DevCloud：代码检查 |          | 华为云DevCloud：云测 |        | 华为云DevCloud：移动应用测试 |          |
+|              |          |  平安神兵:api |        |              | 平安神兵:Power |
 
 #### 6. 技术运营（待定）
 
