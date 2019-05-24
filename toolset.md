@@ -14,8 +14,8 @@
 | 项目管理              | 需求管理                    | 计划与任务管理        | 文档与知识管理              | 团队协同            | 统计度量              | 项目集管理             |
 | --------------------- | --------------------------- | --------------------- | --------------------------- | ------------------- | --------------------- | ---------------------- |
 | JIRA <br/> (国外/商业)           | JIRA+Confluence             | JIRA                  | Confluence                  | Slack               | Hygieia<br/> (国外/开源)                | Portfolio<br/>for Jira |
-| Redmine               | 百度：iCafe                 | 华为DevCloud:项目管理 | 华为DevCloud:Wiki和文档管理 | 华为DevCloud:HiChat | MirrorGate            | 华为DevCloud:项目管理  |
-| 华为DevCloud:项目管理 | 华为DevCloud:项目管理       | 阿里云效:项目协作     | ONES Project                | Mattermost          | 华为DevCloud:项目管理 | 阿里云效:项目协作      |
+| Redmine               | 百度：iCafe                 | 华为云DevCloud：项目管理 | 华为云DevCloud：Wiki和文档管理 | 华为云DevCloud：HiChat | MirrorGate            | 华为云DevCloud：项目管理  |
+| 华为云DevCloud：项目管理 | 华为云DevCloud：项目管理       | 阿里云效:项目协作     | ONES Project                | Mattermost          | 华为云DevCloud：项目管理 | 阿里云效:项目协作      |
 | 阿里云效:项目协作     | 阿里云效:项目协作           | ONES Project          |                             |                     | CloudBees DevOptics   | Oracel Primavera       |
 | ONES Project          | ONES Project                | MS Project            |                             |                     | JIRA EasyBI           |                        |
 |                       | Rational RequisitePro/DOORS |                       |                             |                     |                       |                        |
@@ -30,7 +30,7 @@
 | Dubbo    | AWS Cloud9 |
 | TARS<br/> (国产/开源)     | Eclipse Che |
 | EDAS    |Codenvy |
-| 灵雀云（Alauda EE PaaS）     | 华为DevCloud:CloudIDE<br/>（国产/商业） |
+| 灵雀云（Alauda EE PaaS）     | 华为云DevCloud：CloudIDE<br/>（国产/商业） |
 | 华为云 ServiceStage    |   Coding:WebIDE      |
 | EMAS     | OrionHub |
 | 谐云（观云台）     |  |
@@ -43,6 +43,8 @@
 | Gitlab:代码 |          |          |        |          |          |          |          |              |
 | 腾讯工蜂 |          |          |        |          |          |          |          |              |
 | 平安神兵:Code | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT | 平安神兵:VT |          | 平安神兵:CC |
+| 华为云DevCloud：代码托管 | 华为云DevCloud：编译构建 | 华为云DevCloud：编译构建 | 华为云DevCloud：流水线 | 华为云DevCloud：发布 | 华为云DevCloud：发布 | 华为云DevCloud：部署 |          |              |
+
 
 
 #### 4. [测试管理](test_management.md)
@@ -50,6 +52,7 @@
 | 用例与测试计划管理 | 缺陷管理 | 测试数据管理 |
 | ------------------ | -------- | ------------ |
 |                    | JIRA     |              |
+| 华为云DevCloud：云测 | 华为云DevCloud：项目管理 | 华为云DevCloud：云测 |
 | 平安神兵:协作平台(Alm) | 平安神兵:协作平台(Alm) |              |
 
 #### 5. [自动化测试](test_automation.md)
@@ -57,6 +60,7 @@
 | 代码质量管理 | 单元测试 | 接口/服务测试 | UI测试 | 移动应用测试 | 性能测试 |
 | ------------ | -------- | ------------- | ------ | ------------ | -------- |
 | SonarQube    |          |               |        |              |          |
+| 华为云DevCloud：代码检查 |          | 华为云DevCloud：云测 |        | 华为云DevCloud：移动应用测试 |          |
 |              |          |  平安神兵:api |        |              | 平安神兵:Power |
 
 #### 6. 技术运营（待定）
